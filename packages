@@ -2,5 +2,13 @@ vim-enhanced
 git
 ruby
 ruby-devel
+rubygems
 jq
+pigz
 mailx
+python
+python-devel
+python-pip
+rpm-build
+yum-utils
+rpmdevtools
