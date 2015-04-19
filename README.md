@@ -1,4 +1,4 @@
-vagrant-centos-7
+vagrant-centos-6
 ================
 
 A basic CentOS 6.x vagrant VM
